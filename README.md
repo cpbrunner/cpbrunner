@@ -1,4 +1,12 @@
-### Hi there 👋
+### About Me
+I am a Mathematics & Computer Science Teacher at Lexington High School in Lexington, Massachusetts. Prior to teaching in Lexington, I taught in private schools in the Boston area and Guayaquil, Ecuador. 
+
+Since 2013, I have also worked with MIT Introduction to Engineering and Science (MITES), formerly known as the Office of Engineering Outreach Programs (OEOP), at the Massachusetts Institute of Technology (MIT). I teach first and second semester calculus in the MITES Semester and MITES Summer programs,  respectively, serving students from across the United States who are underrepresented in science, technology, engineering, and mathematics (STEM) fields. I also serve as an Academic Mentoring Seminar Instructor in the MITES Saturday program, working with juniors from the Boston area to provide instruction in academic skills and college admissions.
+
+### Education 
+- **2022:** Certificate in Python Programming, *University of California at San Diego*
+- **2013:** M.Ed. Curriculum and Instruction, *Boston College*
+- **2011:** B.A. Mathematics, B.A. Secondary Education, *Boston College*
 
 <!--
 **cpbrunner/cpbrunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
